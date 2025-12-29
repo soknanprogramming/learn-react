@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      ME ME
+      Hello Soknan
     </>
   )
 }
